@@ -8,13 +8,13 @@
 ## 🖼️ Evidencias — Pruebas en Postman
 
 ### Evidencia 1 — Login (POST /api/v1/auth/login)
-![Evidencia 1 - Login](evidencias/evidencia1_login.png)
+![Evidencia 1 - Login](Evidencia1.png)
 
 ### Evidencia 2 — Listar Productos (GET /api/v1/productos)
-![Evidencia 2 - Listar Productos](evidencias/evidencia2_productos.png)
+![Evidencia 2 - Listar Productos](Evidencia2.png)
 
 ### Evidencia 3 — Crear Producto (POST /api/v1/productos)
-![Evidencia 3 - Crear Producto](evidencias/evidencia3_crear.png)
+![Evidencia 3 - Crear Producto](Evidencia1png)
 
 ---
 
