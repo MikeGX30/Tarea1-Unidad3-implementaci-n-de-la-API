@@ -5,6 +5,19 @@
 
 ---
 
+## 🖼️ Evidencias — Pruebas en Postman
+
+### Evidencia 1 — Login (POST /api/v1/auth/login)
+![Evidencia 1 - Login](evidencias/evidencia1_login.png)
+
+### Evidencia 2 — Listar Productos (GET /api/v1/productos)
+![Evidencia 2 - Listar Productos](evidencias/evidencia2_productos.png)
+
+### Evidencia 3 — Crear Producto (POST /api/v1/productos)
+![Evidencia 3 - Crear Producto](evidencias/evidencia3_crear.png)
+
+---
+
 ## 📋 Descripción
 
 API RESTful construida con **Flask** que implementa un sistema de gestión de productos con autenticación mediante **JWT (JSON Web Tokens)**. El proyecto aplica los principios REST: stateless, uso correcto de verbos HTTP, códigos de estado apropiados y diseño de URIs con sustantivos en plural.
