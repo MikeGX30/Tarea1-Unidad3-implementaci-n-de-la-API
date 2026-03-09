@@ -14,7 +14,7 @@
 ![Evidencia 2 - Listar Productos](Evidencia2.png)
 
 ### Evidencia 3 — Crear Producto (POST /api/v1/productos)
-![Evidencia 3 - Crear Producto](Evidencia1png)
+![Evidencia 3 - Crear Producto](Evidencia3.png)
 
 ---
 
